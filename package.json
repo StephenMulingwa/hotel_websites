@@ -1,0 +1,15 @@
+{
+  "name": "beverly-hills-hotel-website",
+  "version": "1.0.0",
+  "description": "Official website for Beverly Hills Hotel - Premium waterfront event venue",
+  "scripts": {
+    "start": "python -m http.server 5500"
+  },
+  "keywords": [
+    "beverly-hills-hotel",
+    "event-venue",
+    "luxury-hotel"
+  ],
+  "author": "Beverly Hills Hotel",
+  "license": "ISC"
+}
